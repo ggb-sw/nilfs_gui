@@ -28,9 +28,22 @@ All of the above is straight out of the Ubuntu repositories, and so there should
 
 The application is just a single ruby script (it is that simple).
 
-1. Just download the script.
-2. Ensure all the dependencies are installed.
-3. Mark the script as executable (if it is not already so).  If you don't wish to do this, then you will have to run the ruby interpreter to execute the script.
-4. Run the script.
+  1. Just download the script.
+  2. Ensure all the dependencies are installed.
+  3. Mark the script as executable (if it is not already so).  If you don't wish to do this, then you will have to run the ruby interpreter to execute the script.
+  4. Run the script.
 
 All as simple as that.
+
+# Licence
+
+This software is provided free of charge, and without any guarantee of anything.
+
+The software may be freely distributed, copied, and used, by anybody, subject to the following conditions.
+
+  1. The copyright remains with the author (George G. Bolgar)
+  2. The software may not be modified in any way.
+  3. The software must be distributed with this README file.
+  4. The software may not be sold, or otherwise distributed for financial gain.
+
+     4.1 The software may be distributed alongside other software that is for sale, so long as no attempt is made to prevent or limit the software from being used separately from the other software, and no attempt is made to limit the recipient of the software from freely redistributing this software separately from the other software.
